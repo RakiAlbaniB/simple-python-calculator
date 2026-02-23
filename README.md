@@ -11,4 +11,4 @@ Kalkulator sederhana yang dibangun menggunakan library Tkinter dengan fitur mate
 
 ## Cara Menjalankan
 1. Clone repositori ini
-2. Jalankan perintah: `python calculator.py`
+2. Jalankan perintah: `calculator.py`
